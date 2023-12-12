@@ -1,1 +1,1 @@
-Some Sample Projects
+First prototype of AI
